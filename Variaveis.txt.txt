@@ -18,6 +18,7 @@ class Program
         string nome = "Max Felipe" ;
         double valor = 100000.50;
         bool status = true;
+	char letra = 'M';
 
     }
 }
